@@ -1,0 +1,16 @@
+C:\Users\Andy\Desktop\docker-test\bin\Debug\net5.0\docker-test.exe
+C:\Users\Andy\Desktop\docker-test\bin\Debug\net5.0\docker-test.deps.json
+C:\Users\Andy\Desktop\docker-test\bin\Debug\net5.0\docker-test.runtimeconfig.json
+C:\Users\Andy\Desktop\docker-test\bin\Debug\net5.0\docker-test.runtimeconfig.dev.json
+C:\Users\Andy\Desktop\docker-test\bin\Debug\net5.0\docker-test.dll
+C:\Users\Andy\Desktop\docker-test\bin\Debug\net5.0\ref\docker-test.dll
+C:\Users\Andy\Desktop\docker-test\bin\Debug\net5.0\docker-test.pdb
+C:\Users\Andy\Desktop\docker-test\obj\Debug\net5.0\docker-test.csprojAssemblyReference.cache
+C:\Users\Andy\Desktop\docker-test\obj\Debug\net5.0\docker-test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andy\Desktop\docker-test\obj\Debug\net5.0\docker-test.AssemblyInfoInputs.cache
+C:\Users\Andy\Desktop\docker-test\obj\Debug\net5.0\docker-test.AssemblyInfo.cs
+C:\Users\Andy\Desktop\docker-test\obj\Debug\net5.0\docker-test.csproj.CoreCompileInputs.cache
+C:\Users\Andy\Desktop\docker-test\obj\Debug\net5.0\docker-test.dll
+C:\Users\Andy\Desktop\docker-test\obj\Debug\net5.0\ref\docker-test.dll
+C:\Users\Andy\Desktop\docker-test\obj\Debug\net5.0\docker-test.pdb
+C:\Users\Andy\Desktop\docker-test\obj\Debug\net5.0\docker-test.genruntimeconfig.cache
